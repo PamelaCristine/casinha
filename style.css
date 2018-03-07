@@ -1,0 +1,41 @@
+*{
+	margin:0;
+	padding: 0;
+}
+.tela{
+	width: 100%;
+	height: 100vh;
+	background: cadetblue;
+	display: flex;
+	align-items:flex-end;
+	justify-content: center;
+}
+.casa{
+	width: 600px;
+    height: 500px;
+    background: brown;
+    position: relative;
+    bottom: 0;
+}
+.porta{
+	width:100px;
+	height:150px;
+	background:white;
+	position:absolute;
+	right: 20%;
+	bottom: 0;
+
+}	
+.janela{
+	width:100%;
+	height:25%;
+	background: white;
+	position:absolute;
+
+}
+.dif{
+
+}
+.portao{
+
+}
